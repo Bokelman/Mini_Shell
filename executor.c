@@ -1,6 +1,3 @@
-/* Alexander Bokelman
- * 119602676 */
-
 #define OPEN_FLAGS (O_WRONLY | O_TRUNC | O_CREAT)
 #define DEF_MODE 0644
 
